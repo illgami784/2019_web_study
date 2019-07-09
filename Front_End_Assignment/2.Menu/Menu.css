@@ -1,0 +1,38 @@
+.font-name{
+    color: blue;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 60px;
+    font-weight:bold;
+   padding: 1px;
+    margin: 1px;
+    text-align: center;
+    
+}
+
+.menu-table{
+    
+    margin: auto;
+    border: 1px;
+    border-spacing: 100px;
+    width: 80%;
+    border-top: 1px solid #444444;
+    border-collapse: collapse;
+    border-bottom: 1px solid #444444;
+    padding: 10px;
+}
+.menu-text{
+    color: coral;
+     font-family: 'Nanum Pen Script', cursive;
+    font-size: 60px;
+    font-weight: 100;
+    padding: 1px;
+    margin: 1px;
+    text-align: center;
+}
+.google{
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 40px;
+}
+.center{
+    text-align: center;
+}
